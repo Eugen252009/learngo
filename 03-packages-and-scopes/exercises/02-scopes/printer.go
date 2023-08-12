@@ -30,9 +30,7 @@ import "fmt"
 //        inside the hello function
 // ---------------------------------------------------------
 
-func main() {
-	hello()
-}
-func bye() {
-	fmt.Println("Bye")
+func hello() {
+	fmt.Println("Eugen")
+	bye()
 }
