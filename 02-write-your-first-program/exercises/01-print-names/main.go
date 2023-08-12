@@ -8,6 +8,8 @@
 
 package main
 
+import "fmt"
+
 // ---------------------------------------------------------
 // EXERCISE: Print names
 //
@@ -22,8 +24,8 @@ package main
 //  Use `go run` first.
 //  And after that use `go build` and run your program.
 // ---------------------------------------------------------
-
 func main() {
-	// ?
-	// ?
+
+	fmt.Println("Eugen Lupricht")
+	fmt.Println("ABC")
 }
